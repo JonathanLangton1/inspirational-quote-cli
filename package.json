@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/JonathanLangton1/mixed-messages-openai/issues"
   },
-  "homepage": "https://github.com/JonathanLangton1/mixed-messages-openai#readme"
+  "homepage": "https://github.com/JonathanLangton1/mixed-messages-openai#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "prompts": "^2.4.2"
+  }
 }
