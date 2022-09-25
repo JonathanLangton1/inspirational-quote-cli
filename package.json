@@ -1,14 +1,14 @@
 {
-  "name": "mixed-messages-openai",
+  "name": "inspirational-quote-cli",
   "version": "1.0.0",
-  "description": "A basic program which generates random messages using OpenAI.",
+  "description": "A basic program which displays inspirational quotes to you.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JonathanLangton1/mixed-messages-openai.git"
+    "url": "git+https://github.com/JonathanLangton1/inspirational-quote-cli.git"
   },
   "keywords": [
     "random",
@@ -18,9 +18,9 @@
   "author": "Jonathan Langton",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JonathanLangton1/mixed-messages-openai/issues"
+    "url": "https://github.com/JonathanLangton1/inspirational-quote-cli/issues"
   },
-  "homepage": "https://github.com/JonathanLangton1/mixed-messages-openai#readme",
+  "homepage": "https://github.com/JonathanLangton1/inspirational-quote-cli#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "prompts": "^2.4.2"
